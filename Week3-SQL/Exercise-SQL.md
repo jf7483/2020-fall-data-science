@@ -227,5 +227,5 @@ ORDER BY
 4. Click the 'Share' button on the top right.  
 5. Change the permissions so anyone with link can view.
 6. Copy the link and paste it right below this line.
-	* YOUR LINK:  ________________________________
+	* YOUR LINK:  https://colab.research.google.com/drive/1ZUbn0kdQbYo5WXMCQbZIIQv9wYEA293f?usp=sharing
 9. Complete the two questions in the colab notebook file.
