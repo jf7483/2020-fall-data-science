@@ -81,7 +81,7 @@ For this section of the exercise we will be using the `bigquery-public-data.aust
 	GROUP BY
   	unique_key
 	HAVING
-  	number_count > 1
+  	number_count > 1 (fix)
 
 	```
 
@@ -123,7 +123,7 @@ For this section of the exercise we will be using the `bigquery-public-data.aust
 
 3. What week_start_date had the highest spend? (No need to insert query here, just type in the answer.)
 	```
-	2020-09-13
+	2020-09-13 (fix)
 
 	```
 
